@@ -6,6 +6,11 @@
 $ git clone https://github.com/xKenyh/music-reproducer
 ```
 
+# Gui 🎆
+  <p align=center>
+      <image src="https://cdn.discordapp.com/attachments/852696157737713664/876603749584502784/unknown.png"> 
+  <p/>
+
 ## Usage 🚀
 ```
 $ Execute
