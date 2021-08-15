@@ -8,9 +8,12 @@ $ git clone https://github.com/xKenyh/music-reproducer
 
 ## Usage 🚀
 ```
-$ Execute as admin
-$ Enjoy!
+$ Execute
+$ Add your files
+$ Enjoy it!
 ```
+
+
 
 ## Notes ☂
 * This is the first version, if you see a bug, please open an issue. 🪐
